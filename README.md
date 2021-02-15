@@ -1,4 +1,4 @@
-Machine Learning Notebooks
+Machine Learning Notebook
 ==========================
 
 This project aims at teaching you the fundamentals of Machine Learning in
